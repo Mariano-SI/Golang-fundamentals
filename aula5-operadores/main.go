@@ -1,7 +1,5 @@
 package main
 
-import "fmt"
-
 func main() {
 	//ARITMETICOS
 	//soma := 1 + 2
