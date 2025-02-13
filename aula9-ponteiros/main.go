@@ -77,5 +77,6 @@ func main() {
 
 	fmt.Println(slice1)
 	fmt.Println(slice2) //ambos foram alterados
+	
 
 }
