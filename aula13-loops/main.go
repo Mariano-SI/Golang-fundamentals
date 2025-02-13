@@ -7,6 +7,12 @@ func main() {
 
 	//Go possui apenas o loop for que pode see utilizado de varias formas
 
+	//For infinito
+	for{
+		fmt.Println("Loop infinito")
+		break //para o loop
+	}
+
 	//For como while
 	var number int = 0
 	for number < 10 {
