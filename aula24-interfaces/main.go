@@ -31,6 +31,8 @@ func escreverArea(f forma) {
 
 func main() {
 	fmt.Println("Aula 24 - Interfaces")
+	//INterfaces em go descrevem apenas o comportamento de um tipo
+	//Alem disso nao precisamos explicitamente dizer que um tipo implementa uma interface, basta que ele tenha os métodos necessários
 
 	r := retangulo{altura: 10, largura: 15}
 	escreverArea(r)
